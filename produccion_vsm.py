@@ -655,19 +655,4 @@ def mostrar_vsm():
 
     
 
-    if st.button("🎙️ Activar Asistente Oso"):
-        respuesta = asistente_oso(df, eficiencia_global, cuello, takt_time)  # la respuesta en texto
-        
-        # Mostrar en pantalla
-        st.success(respuesta)
 
-        # Decirlo en voz
-        import pyttsx3
-        engine = pyttsx3.init()
-        engine.setProperty("rate", 165)   # velocidad de voz
-        engine.setProperty("volume", 1.0) # volumen máximo
-        voices = engine.getProperty("voices")
-        engine.setProperty("voice", voices[0].id)  # puedes probar cambiar el índice [0], [1], etc.
-        
-        engine.say(respuesta)
-        engine.runAndWait()
