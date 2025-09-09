@@ -1,0 +1,189 @@
+[
+    {
+        "nombre": "EN COLA",
+        "descripcion": "",
+        "orden": 1,
+        "tiempo_estimado": 0,
+        "tiempo_preparacion": 0,
+        "tiempo_mantenimiento": 0,
+        "personas_asignadas": 1,
+        "horas_trabajo": 0.0,
+        "eficiencia_esperada": 100
+    },
+    {
+        "nombre": "DISENO",
+        "descripcion": "",
+        "orden": 2,
+        "tiempo_estimado": 0,
+        "tiempo_preparacion": 0,
+        "tiempo_mantenimiento": 0,
+        "personas_asignadas": 1,
+        "horas_trabajo": 0.0,
+        "eficiencia_esperada": 100
+    },
+    {
+        "nombre": "C. CONVERSION",
+        "descripcion": "",
+        "orden": 3,
+        "tiempo_estimado": 0,
+        "tiempo_preparacion": 0,
+        "tiempo_mantenimiento": 0,
+        "personas_asignadas": 1,
+        "horas_trabajo": 0.0,
+        "eficiencia_esperada": 100
+    },
+    {
+        "nombre": "C. GUILLOTINA",
+        "descripcion": "",
+        "orden": 4,
+        "tiempo_estimado": 0,
+        "tiempo_preparacion": 0,
+        "tiempo_mantenimiento": 0,
+        "personas_asignadas": 1,
+        "horas_trabajo": 0.0,
+        "eficiencia_esperada": 100
+    },
+    {
+        "nombre": "IPRES. GTOZ",
+        "descripcion": "",
+        "orden": 5,
+        "tiempo_estimado": 0,
+        "tiempo_preparacion": 0,
+        "tiempo_mantenimiento": 0,
+        "personas_asignadas": 1,
+        "horas_trabajo": 0.0,
+        "eficiencia_esperada": 100
+    },
+    {
+        "nombre": "IPRES. KOMORY",
+        "descripcion": "",
+        "orden": 6,
+        "tiempo_estimado": 0,
+        "tiempo_preparacion": 0,
+        "tiempo_mantenimiento": 0,
+        "personas_asignadas": 1,
+        "horas_trabajo": 0.0,
+        "eficiencia_esperada": 100
+    },
+    {
+        "nombre": "REC. BARNIZADO",
+        "descripcion": "",
+        "orden": 7,
+        "tiempo_estimado": 0,
+        "tiempo_preparacion": 0,
+        "tiempo_mantenimiento": 0,
+        "personas_asignadas": 1,
+        "horas_trabajo": 0.0,
+        "eficiencia_esperada": 100
+    },
+    {
+        "nombre": "REC. PLASTICO MAT.",
+        "descripcion": "",
+        "orden": 8,
+        "tiempo_estimado": 0,
+        "tiempo_preparacion": 0,
+        "tiempo_mantenimiento": 0,
+        "personas_asignadas": 1,
+        "horas_trabajo": 0.0,
+        "eficiencia_esperada": 100
+    },
+    {
+        "nombre": "S.E SECTORIZADO",
+        "descripcion": "",
+        "orden": 9,
+        "tiempo_estimado": 0,
+        "tiempo_preparacion": 0,
+        "tiempo_mantenimiento": 0,
+        "personas_asignadas": 1,
+        "horas_trabajo": 0.0,
+        "eficiencia_esperada": 100
+    },
+    {
+        "nombre": "S.E HOT ESTAMPING",
+        "descripcion": "",
+        "orden": 10,
+        "tiempo_estimado": 0,
+        "tiempo_preparacion": 0,
+        "tiempo_mantenimiento": 0,
+        "personas_asignadas": 1,
+        "horas_trabajo": 0.0,
+        "eficiencia_esperada": 100
+    },
+    {
+        "nombre": "S.E CONTRAPLACADO",
+        "descripcion": "",
+        "orden": 11,
+        "tiempo_estimado": 0,
+        "tiempo_preparacion": 0,
+        "tiempo_mantenimiento": 0,
+        "personas_asignadas": 1,
+        "horas_trabajo": 0.0,
+        "eficiencia_esperada": 100
+    },
+    {
+        "nombre": "TROQUELADO 1",
+        "descripcion": "",
+        "orden": 12,
+        "tiempo_estimado": 0,
+        "tiempo_preparacion": 0,
+        "tiempo_mantenimiento": 0,
+        "personas_asignadas": 1,
+        "horas_trabajo": 0.0,
+        "eficiencia_esperada": 100
+    },
+    {
+        "nombre": "PEGADO MAQUINA",
+        "descripcion": "",
+        "orden": 14,
+        "tiempo_estimado": 0,
+        "tiempo_preparacion": 0,
+        "tiempo_mantenimiento": 0,
+        "personas_asignadas": 1,
+        "horas_trabajo": 0.0,
+        "eficiencia_esperada": 100
+    },
+    {
+        "nombre": "PEGADO MANUAL",
+        "descripcion": "",
+        "orden": 15,
+        "tiempo_estimado": 0,
+        "tiempo_preparacion": 0,
+        "tiempo_mantenimiento": 0,
+        "personas_asignadas": 2,
+        "horas_trabajo": 0.0,
+        "eficiencia_esperada": 100
+    },
+    {
+        "nombre": "CONT. DE CALIDAD",
+        "descripcion": "",
+        "orden": 16,
+        "tiempo_estimado": 0,
+        "tiempo_preparacion": 0,
+        "tiempo_mantenimiento": 0,
+        "personas_asignadas": 1,
+        "horas_trabajo": 0.0,
+        "eficiencia_esperada": 100
+    },
+    {
+        "nombre": "TRASPORTE",
+        "descripcion": "",
+        "orden": 17,
+        "tiempo_estimado": 0,
+        "tiempo_preparacion": 0,
+        "tiempo_mantenimiento": 0,
+        "personas_asignadas": 1,
+        "horas_trabajo": 0.0,
+        "eficiencia_esperada": 100
+    },
+    {
+        "nombre": "TERMINADOS",
+        "descripcion": "",
+        "orden": 18,
+        "tiempo_estimado": 0,
+        "tiempo_preparacion": 0,
+        "tiempo_mantenimiento": 0,
+        "personas_asignadas": 1,
+        "horas_trabajo": 0.0,
+        "eficiencia_esperada": 100
+    }
+]

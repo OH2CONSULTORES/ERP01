@@ -1,0 +1,126 @@
+[
+    {
+        "numero_op": "777",
+        "cliente": "MOLITALIA S.A.C",
+        "producto": "CAJAS ACEITE PRIMOR",
+        "cantidad": 13990,
+        "fecha_entrega": "2025-08-30",
+        "dias_restantes": 23,
+        "etapas": [
+            "EN COLA",
+            "DISENO",
+            "C. CONVERSION",
+            "C. GUILLOTINA",
+            "IPRES. KOMORY",
+            "REC. PLASTICO MAT.",
+            "TROQUELADO 1",
+            "PEGADO MAQUINA",
+            "CONT. DE CALIDAD",
+            "TRASPORTE",
+            "TERMINADOS"
+        ],
+        "estado_actual": "TERMINADOS",
+        "planificacion": {},
+        "historial": [
+            {
+                "etapa": "EN COLA",
+                "inicio": "2025-08-07T17:27:44.738864",
+                "fin": null,
+                "observacion": null
+            }
+        ],
+        "imagen_op": null
+    },
+    {
+        "numero_op": "108",
+        "cliente": "BIMBO S.A.C",
+        "producto": "CAJAS DE PAN",
+        "cantidad": 4400,
+        "fecha_entrega": "2025-08-27",
+        "dias_restantes": 11,
+        "etapas": [
+            "EN COLA",
+            "C. CONVERSION",
+            "IPRES. KOMORY",
+            "REC. PLASTICO MAT.",
+            "TROQUELADO 1",
+            "PEGADO MANUAL",
+            "CONT. DE CALIDAD",
+            "TRASPORTE",
+            "TERMINADOS"
+        ],
+        "estado_actual": "IPRES. KOMORY",
+        "planificacion": {},
+        "historial": [
+            {
+                "etapa": "EN COLA",
+                "inicio": "2025-08-16T23:55:10.725588",
+                "fin": null,
+                "observacion": null
+            }
+        ],
+        "imagen_op": null
+    },
+    {
+        "numero_op": "862",
+        "cliente": "omar sac",
+        "producto": "cajas de fideos",
+        "cantidad": 470,
+        "fecha_entrega": "2025-08-29",
+        "dias_restantes": 12,
+        "etapas": [
+            "EN COLA",
+            "C. GUILLOTINA",
+            "IPRES. GTOZ",
+            "REC. BARNIZADO",
+            "S.E HOT ESTAMPING",
+            "TROQUELADO 1",
+            "PEGADO MANUAL",
+            "CONT. DE CALIDAD",
+            "TRASPORTE",
+            "TERMINADOS"
+        ],
+        "estado_actual": "TROQUELADO 1",
+        "planificacion": {},
+        "historial": [
+            {
+                "etapa": "EN COLA",
+                "inicio": "2025-08-17T00:08:45.879558",
+                "fin": null,
+                "observacion": null
+            }
+        ],
+        "imagen_op": null
+    },
+    {
+        "numero_op": "4555",
+        "cliente": "NESTLE S.A.C",
+        "producto": "CAJAS PARA LECHE CONDENSADA ",
+        "cantidad": 1,
+        "fecha_entrega": "2025-09-18",
+        "dias_restantes": 32,
+        "etapas": [
+            "EN COLA",
+            "C. CONVERSION",
+            "C. GUILLOTINA",
+            "IPRES. KOMORY",
+            "REC. PLASTICO MAT.",
+            "TROQUELADO 1",
+            "PEGADO MAQUINA",
+            "CONT. DE CALIDAD",
+            "TRASPORTE",
+            "TERMINADOS"
+        ],
+        "estado_actual": "REC. PLASTICO MAT.",
+        "planificacion": {},
+        "historial": [
+            {
+                "etapa": "EN COLA",
+                "inicio": "2025-08-17T00:21:00.215639",
+                "fin": null,
+                "observacion": null
+            }
+        ],
+        "imagen_op": null
+    }
+]
