@@ -1,0 +1,231 @@
+[
+  {
+    "numero": "COT-0001",
+    "cliente": "SAMATSU S.A.C.",
+    "fecha": "2025-08-14",
+    "descripcion": "LONCHERA FARRUKITOS HOUSE",
+    "cantidades": [
+      500,
+      0,
+      0,
+      0
+    ],
+    "cantidad_aceptada": 500,
+    "acabados": "IMPRESO 4 COLORES ESPECIALES + PLASTICO MATE  RETIRA + TROQUELADO + ARMADO",
+    "recubrimientos": "PLASTICO MATE RETIRA",
+    "material": "CARTON REVERSO KRAFT C-16.5, 282 GRS",
+    "maquina_tipo_impresion": "KOMORI LITRONE  50*70 CM 4 COLORES ESPECIALES IMPRIME POR EL LADO",
+    "tabla": [
+      {
+        "DETALLE DE COSTOS": "DISEÑO",
+        "OPCIÓN": "NUEVO SIMPLE",
+        "PRECIO": 20
+      },
+      {
+        "DETALLE DE COSTOS": "PRUEBA DE COLOR",
+        "OPCIÓN": "OFFSET 50X70",
+        "PRECIO": 140
+      },
+      {
+        "DETALLE DE COSTOS": "PLACAS",
+        "OPCIÓN": "",
+        "PRECIO": 0
+      },
+      {
+        "DETALLE DE COSTOS": "IMPRESIÓN",
+        "OPCIÓN": "",
+        "PRECIO": 0
+      },
+      {
+        "DETALLE DE COSTOS": "MATERIAL 1:",
+        "OPCIÓN": "",
+        "PRECIO": 0
+      },
+      {
+        "DETALLE DE COSTOS": "COSTO CONVERSION:",
+        "OPCIÓN": "",
+        "PRECIO": 0
+      },
+      {
+        "DETALLE DE COSTOS": "CORTE RESMAS A PLIEGO",
+        "OPCIÓN": "",
+        "PRECIO": 0
+      },
+      {
+        "DETALLE DE COSTOS": "PLASTICO MATE RETIRA",
+        "OPCIÓN": "",
+        "PRECIO": 0
+      },
+      {
+        "DETALLE DE COSTOS": "0",
+        "OPCIÓN": "",
+        "PRECIO": 0
+      },
+      {
+        "DETALLE DE COSTOS": "0",
+        "OPCIÓN": "",
+        "PRECIO": 0
+      },
+      {
+        "DETALLE DE COSTOS": "PELICULA RECUBRIMIENTO",
+        "OPCIÓN": "",
+        "PRECIO": 0
+      },
+      {
+        "DETALLE DE COSTOS": "MANTILLA RECUBRIIENTO:",
+        "OPCIÓN": "",
+        "PRECIO": 0
+      },
+      {
+        "DETALLE DE COSTOS": "TROQUEL",
+        "OPCIÓN": "AGREGA PRECIO MANUALMENTE",
+        "PRECIO": 20
+      },
+      {
+        "DETALLE DE COSTOS": "TROQUELADO 1",
+        "OPCIÓN": "",
+        "PRECIO": 0
+      },
+      {
+        "DETALLE DE COSTOS": "TROQUELADO 2",
+        "OPCIÓN": "",
+        "PRECIO": 0
+      },
+      {
+        "DETALLE DE COSTOS": "CITOS",
+        "OPCIÓN": "",
+        "PRECIO": 0
+      },
+      {
+        "DETALLE DE COSTOS": "HOT STAMPING",
+        "OPCIÓN": "",
+        "PRECIO": 0
+      },
+      {
+        "DETALLE DE COSTOS": "CLICHÉ HOT STAMPING",
+        "OPCIÓN": "",
+        "PRECIO": 0
+      },
+      {
+        "DETALLE DE COSTOS": "PELICULA HOT STAMPING",
+        "OPCIÓN": "",
+        "PRECIO": 0
+      },
+      {
+        "DETALLE DE COSTOS": "REPUJADO",
+        "OPCIÓN": "",
+        "PRECIO": 0
+      },
+      {
+        "DETALLE DE COSTOS": "CLICHÉ REPUJADO",
+        "OPCIÓN": "",
+        "PRECIO": 0
+      },
+      {
+        "DETALLE DE COSTOS": "PELICULA REPUJADO",
+        "OPCIÓN": "",
+        "PRECIO": 0
+      },
+      {
+        "DETALLE DE COSTOS": "MANUALIDAD 1:",
+        "OPCIÓN": "",
+        "PRECIO": 0
+      },
+      {
+        "DETALLE DE COSTOS": "MANUALIDAD 2:",
+        "OPCIÓN": "",
+        "PRECIO": 0
+      },
+      {
+        "DETALLE DE COSTOS": "ASA DE BOLSA",
+        "OPCIÓN": "",
+        "PRECIO": 0
+      },
+      {
+        "DETALLE DE COSTOS": "EMPAQUETADO",
+        "OPCIÓN": "PAQUETE DE 400(2 HOJAS X PLIEGO)",
+        "PRECIO": 3
+      },
+      {
+        "DETALLE DE COSTOS": "DESGLOCE",
+        "OPCIÓN": "SIMPLE",
+        "PRECIO": 5
+      },
+      {
+        "DETALLE DE COSTOS": "CONTRAPLACADO",
+        "OPCIÓN": "50X70 CM.",
+        "PRECIO": 70
+      },
+      {
+        "DETALLE DE COSTOS": "MOVILIDAD INTERNA",
+        "OPCIÓN": "MOVILIDAD INTERNA CERCA",
+        "PRECIO": 25
+      },
+      {
+        "DETALLE DE COSTOS": "DELIVERY",
+        "OPCIÓN": "CAMION MEDIANO H300 5 TONELADAS",
+        "PRECIO": 350
+      },
+      {
+        "DETALLE DE COSTOS": "SUB TOTAL",
+        "OPCIÓN": "",
+        "PRECIO": 0
+      },
+      {
+        "DETALLE DE COSTOS": "COSTOS FIJOS",
+        "OPCIÓN": "",
+        "PRECIO": 0
+      },
+      {
+        "DETALLE DE COSTOS": "COMISION VENTA",
+        "OPCIÓN": "",
+        "PRECIO": 0
+      },
+      {
+        "DETALLE DE COSTOS": "COSTO TOTAL",
+        "OPCIÓN": "",
+        "PRECIO": 0
+      },
+      {
+        "DETALLE DE COSTOS": "UTILIDAD",
+        "OPCIÓN": "",
+        "PRECIO": 0
+      },
+      {
+        "DETALLE DE COSTOS": "COSTO FINAL VENTA",
+        "OPCIÓN": "",
+        "PRECIO": 0
+      },
+      {
+        "DETALLE DE COSTOS": "COSTO FINAL INCLUIDO IGV",
+        "OPCIÓN": "",
+        "PRECIO": 0
+      },
+      {
+        "DETALLE DE COSTOS": "COSTO UNIT.",
+        "OPCIÓN": "",
+        "PRECIO": 0
+      },
+      {
+        "DETALLE DE COSTOS": "TIRAJE DE IMPRESION",
+        "OPCIÓN": "",
+        "PRECIO": 0
+      },
+      {
+        "DETALLE DE COSTOS": "PRECIO MINIMO",
+        "OPCIÓN": "",
+        "PRECIO": 0
+      },
+      {
+        "DETALLE DE COSTOS": "HOJAS DE RESMAS A UTILIZAR",
+        "OPCIÓN": "",
+        "PRECIO": 0
+      },
+      {
+        "DETALLE DE COSTOS": "CANTIDAD MINIMA DE PLIEGOS",
+        "OPCIÓN": "",
+        "PRECIO": 0
+      }
+    ]
+  }
+]
