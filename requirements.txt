@@ -7,3 +7,4 @@ matplotlib
 plotly
 streamlit-echarts
 SpeechRecognition
+reportlab
