@@ -6,3 +6,4 @@ pymupdf
 matplotlib
 plotly
 streamlit-echarts
+SpeechRecognition
