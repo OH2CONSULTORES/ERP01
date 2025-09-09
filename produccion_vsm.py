@@ -9,7 +9,7 @@ from datetime import datetime
 import random
 
 import speech_recognition as sr
-import pyttsx3
+
 # --- Rutas a archivos (ajusta si es necesario) ---
 TRAZABILIDAD_FILE = os.path.join("data", "trazabilidad.json")
 ORDENES_FILE = os.path.join("data", "ordenes_produccion.json")
@@ -654,5 +654,6 @@ def mostrar_vsm():
     st_echarts(options=cb_chart_opts, height="450px")
 
     
+
 
 
